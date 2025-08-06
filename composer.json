@@ -17,7 +17,7 @@
     {
       "type": "vcs",
       "url": "https://github.com/LetsGoLearn/html.git"
-    },
+    }
   ],
     "require": {
         "php": "^8.0",
